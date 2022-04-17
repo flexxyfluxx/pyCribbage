@@ -1,2 +1,3 @@
 # pyCribbage
 Cribbage, made w/ Python.
+One day, I'll make it ...
